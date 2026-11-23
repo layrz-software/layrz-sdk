@@ -39,8 +39,8 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/goldenm-software/layrz-sdk"
-Changelog = "https://github.com/goldenm-software/layrz-sdk/blob/main/CHANGELOG.md"
+Repository = "https://github.com/layrz-software/layrz-sdk"
+Changelog = "https://github.com/layrz-software/layrz-sdk/blob/main/CHANGELOG.md"
 
 [build-system]
 requires = ["setuptools", "setuptools-scm"]

@@ -1,6 +1,6 @@
 package entities
 
-import "github.com/goldenm-software/layrz-sdk/go/v4/types"
+import "github.com/layrz-software/layrz-sdk/go/v4/types"
 
 // RawBroadcastResult represents the result of a broadcast operation.
 type RawBroadcastResult struct {

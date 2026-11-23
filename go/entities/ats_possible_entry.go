@@ -1,6 +1,6 @@
 package entities
 
-import "github.com/goldenm-software/layrz-sdk/go/v4/types"
+import "github.com/layrz-software/layrz-sdk/go/v4/types"
 
 // AtsPossibleEntry represents a possible entry entity in the ATS module.
 type AtsPossibleEntry struct {

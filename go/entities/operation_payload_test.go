@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/goldenm-software/layrz-sdk/go/v4/enums"
-	"github.com/goldenm-software/layrz-sdk/go/v4/types"
+	"github.com/layrz-software/layrz-sdk/go/v4/enums"
+	"github.com/layrz-software/layrz-sdk/go/v4/types"
 )
 
 func TestOperationPayloadMarshalJSON(t *testing.T) {

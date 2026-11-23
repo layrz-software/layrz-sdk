@@ -5,8 +5,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/goldenm-software/layrz-sdk/go/v4/types"
 	"github.com/google/uuid"
+	"github.com/layrz-software/layrz-sdk/go/v4/types"
 )
 
 func TestBroadcastPayload(t *testing.T) {
