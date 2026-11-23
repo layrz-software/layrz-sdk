@@ -319,6 +319,12 @@ enum ReferenceCategory {
   @JsonValue('ATS_MERGE_OPERATIONS')
   atsMergeOperations,
 
+  /// !ATS Reference
+  /// [AllTank Systems] Access to the CACL wizard.
+  /// Layrz API Reference: ATS_CACL_WIZARD
+  @JsonValue('ATS_CACL_WIZARD')
+  atsCaclWizard,
+
   /// !Mappit Reference
   /// Defines access to the Mappit module as an operator or Mappit employee.
   /// Layrz API Reference: MAPPIT_OPERATOR

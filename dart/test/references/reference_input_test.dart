@@ -221,6 +221,16 @@ void main() {
       expect(input.category.toJson(), 'ATS_MERGE_OPERATIONS');
     });
 
+    test('ReferenceInput with ATS CACL wizard category', () {
+      final input = ReferenceInput(
+        name: 'ATS CACL Wizard Input',
+        category: ReferenceCategory.atsCaclWizard,
+      );
+
+      expect(input.category, ReferenceCategory.atsCaclWizard);
+      expect(input.category.toJson(), 'ATS_CACL_WIZARD');
+    });
+
     test('ReferenceInput with Mappit category', () {
       final input = ReferenceInput(
         name: 'Mappit Input',
