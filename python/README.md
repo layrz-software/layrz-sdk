@@ -2,7 +2,7 @@
 
 [![PyPI version](https://img.shields.io/pypi/v/layrz-sdk?logo=pypi&logoColor=white)](https://pypi.org/project/layrz-sdk/)
 [![Python](https://img.shields.io/pypi/pyversions/layrz-sdk?logo=python&logoColor=white)](https://pypi.org/project/layrz-sdk/)
-[![GitHub license](https://img.shields.io/github/license/goldenm-software/layrz-sdk?logo=github)](https://github.com/goldenm-software/layrz-sdk)
+[![GitHub license](https://img.shields.io/github/license/layrz-software/layrz-sdk?logo=github)](https://github.com/layrz-software/layrz-sdk)
 
 It's a group of classes/SDK that can help you to implement scripts into Layrz modules, or incorporate them into your own projects.
 
@@ -30,17 +30,17 @@ All packages developed by [Layrz](https://layrz.com) are prefixed with `layrz`, 
 
 ### What is this package for?
 
-This is the Python side of the multi-language Layrz SDK monorepo, which also ships a Go SDK (`github.com/goldenm-software/layrz-sdk/go/v4`) and a Dart/Flutter SDK (`layrz_sdk` on pub.dev).
+This is the Python side of the multi-language Layrz SDK monorepo, which also ships a Go SDK (`github.com/layrz-software/layrz-sdk/go/v4`) and a Dart/Flutter SDK (`layrz_sdk` on pub.dev).
 
 <b>What's inside:</b> the shared entities (100+ Pydantic models for assets, devices, sensors, geofences, telemetry messages, charts, broadcasts, modbus, operations, reports and push notifications), the Layrz Compute Language (LCL) interpreter for telemetry scripting, and helpers (UUIDv7 composition/extraction, color conversion) — converting Layrz API and platform payloads into typed Python objects. More information about our SDKs can be found in our [documentation](https://developers.layrz.com/Kits/Sdk).
 
 ### I have a question, how can I contact you?
 
-If you need more assistance, you can open an issue on the [Repository](https://github.com/goldenm-software/layrz-sdk) and we're happy to help you :)
+If you need more assistance, you can open an issue on the [Repository](https://github.com/layrz-software/layrz-sdk) and we're happy to help you :)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/goldenm-software/layrz-sdk/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/layrz-software/layrz-sdk/blob/main/LICENSE) file for details.
 
 This project is maintained by [Golden M](https://goldenm.com) with authorization of [Layrz LTD](https://layrz.com).
 

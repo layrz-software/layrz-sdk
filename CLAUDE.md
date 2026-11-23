@@ -50,7 +50,7 @@ These generated files are produced by `dart/tool/generate_icons.dart` and must n
 ### Repository Layout
 
 - `python/` — Python SDK (published to PyPI as `layrz-sdk`)
-- `go/` — Go SDK (module `github.com/goldenm-software/layrz-sdk/go/v4`)
+- `go/` — Go SDK (module `github.com/layrz-software/layrz-sdk/go/v4`)
 - `.github/workflows/` — CI (PR checks) and CD (tag-based PyPI + GitHub release)
 
 ### Python SDK (`python/layrz_sdk/`)
