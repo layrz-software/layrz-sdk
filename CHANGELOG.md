@@ -1,5 +1,19 @@
 # Changelog
 
+## 4.32.2
+
+### Python
+
+* No changes in this release.
+
+### Dart
+
+* Added `atsCaclWizard` (`ATS_CACL_WIZARD`) to `ReferenceCategory`, gating access to the CACL wizard.
+
+### Go
+
+* No changes in this release.
+
 ## 4.32.1
 
 The GitHub organization moved from `goldenm-software` to `layrz-software`. Previous tags declare the old Go module path, so this release republishes every package under the new one.
