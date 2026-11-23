@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/goldenm-software/layrz-sdk/go/v4/enums"
-	"github.com/goldenm-software/layrz-sdk/go/v4/types"
 	"github.com/google/uuid"
+	"github.com/layrz-software/layrz-sdk/go/v4/enums"
+	"github.com/layrz-software/layrz-sdk/go/v4/types"
 )
 
 // AssetMessage represents a message sent from or to an asset.

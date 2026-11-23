@@ -1,8 +1,8 @@
 # Layrz SDK for Go
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/goldenm-software/layrz-sdk/go/v4.svg)](https://pkg.go.dev/github.com/goldenm-software/layrz-sdk/go/v4)
-[![Go](https://img.shields.io/github/go-mod/go-version/goldenm-software/layrz-sdk?filename=go%2Fgo.mod&logo=go&logoColor=white)](https://github.com/goldenm-software/layrz-sdk)
-[![GitHub license](https://img.shields.io/github/license/goldenm-software/layrz-sdk?logo=github)](https://github.com/goldenm-software/layrz-sdk)
+[![Go Reference](https://pkg.go.dev/badge/github.com/layrz-software/layrz-sdk/go/v4.svg)](https://pkg.go.dev/github.com/layrz-software/layrz-sdk/go/v4)
+[![Go](https://img.shields.io/github/go-mod/go-version/layrz-software/layrz-sdk?filename=go%2Fgo.mod&logo=go&logoColor=white)](https://github.com/layrz-software/layrz-sdk)
+[![GitHub license](https://img.shields.io/github/license/layrz-software/layrz-sdk?logo=github)](https://github.com/layrz-software/layrz-sdk)
 
 It's a group of classes/SDK that can help you to implement scripts into Layrz modules, or incorporate them into your own projects.
 
@@ -11,7 +11,7 @@ It's a group of classes/SDK that can help you to implement scripts into Layrz mo
 To use this package, add it to your project:
 
 ```bash
-go get github.com/goldenm-software/layrz-sdk/go/v4
+go get github.com/layrz-software/layrz-sdk/go/v4
 ```
 
 Requires Go `1.25.5` or later.
@@ -20,7 +20,7 @@ Requires Go `1.25.5` or later.
 
 ### Why is this package called `layrz-sdk`?
 
-All packages developed by [Layrz](https://layrz.com) are prefixed with `layrz`, check out our other packages on [pkg.go.dev](https://pkg.go.dev/github.com/goldenm-software), [PyPI](https://pypi.org/user/goldenm/) and [pub.dev](https://pub.dev/publishers/goldenm.com/packages).
+All packages developed by [Layrz](https://layrz.com) are prefixed with `layrz`, check out our other packages on [pkg.go.dev](https://pkg.go.dev/github.com/layrz-software), [PyPI](https://pypi.org/user/goldenm/) and [pub.dev](https://pub.dev/publishers/goldenm.com/packages).
 
 ### What is this package for?
 
@@ -30,11 +30,11 @@ This is the Go side of the multi-language Layrz SDK monorepo, which also ships a
 
 ### I have a question, how can I contact you?
 
-If you need more assistance, you can open an issue on the [Repository](https://github.com/goldenm-software/layrz-sdk) and we're happy to help you :)
+If you need more assistance, you can open an issue on the [Repository](https://github.com/layrz-software/layrz-sdk) and we're happy to help you :)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/goldenm-software/layrz-sdk/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/layrz-software/layrz-sdk/blob/main/LICENSE) file for details.
 
 This project is maintained by [Golden M](https://goldenm.com) with authorization of [Layrz LTD](https://layrz.com).
 

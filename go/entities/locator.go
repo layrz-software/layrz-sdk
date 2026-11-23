@@ -1,6 +1,6 @@
 package entities
 
-import "github.com/goldenm-software/layrz-sdk/go/v4/types"
+import "github.com/layrz-software/layrz-sdk/go/v4/types"
 
 // Locator represents the public location link
 type Locator struct {

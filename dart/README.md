@@ -2,7 +2,7 @@
 
 [![Pub version](https://img.shields.io/pub/v/layrz_sdk?logo=dart)](https://pub.dev/packages/layrz_sdk)
 [![likes](https://img.shields.io/pub/likes/layrz_sdk?logo=dart)](https://pub.dev/packages/layrz_sdk/score)
-[![GitHub license](https://img.shields.io/github/license/goldenm-software/layrz-sdk?logo=github)](https://github.com/goldenm-software/layrz-sdk)
+[![GitHub license](https://img.shields.io/github/license/layrz-software/layrz-sdk?logo=github)](https://github.com/layrz-software/layrz-sdk)
 
 It's a group of classes/SDK that can help you to implement scripts into Layrz modules, or incorporate them into your own projects.
 
@@ -34,11 +34,11 @@ And if it's essentially yes, why not just remove the Material dependencies from 
 
 ### I have a question, how can I contact you?
 
-If you need more assistance, you can open an issue on the [Repository](https://github.com/goldenm-software/layrz-sdk) and we're happy to help you :)
+If you need more assistance, you can open an issue on the [Repository](https://github.com/layrz-software/layrz-sdk) and we're happy to help you :)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/goldenm-software/layrz-sdk/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/layrz-software/layrz-sdk/blob/main/LICENSE) file for details.
 
 This project is maintained by [Golden M](https://goldenm.com) with authorization of [Layrz LTD](https://layrz.com).
 

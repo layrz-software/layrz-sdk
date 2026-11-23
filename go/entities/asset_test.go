@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/goldenm-software/layrz-sdk/go/v4/enums"
+	"github.com/layrz-software/layrz-sdk/go/v4/enums"
 )
 
 func TestAsset(t *testing.T) {

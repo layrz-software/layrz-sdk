@@ -1,8 +1,8 @@
 package entities
 
 import (
-	"github.com/goldenm-software/layrz-sdk/go/v4/enums"
-	"github.com/goldenm-software/layrz-sdk/go/v4/types"
+	"github.com/layrz-software/layrz-sdk/go/v4/enums"
+	"github.com/layrz-software/layrz-sdk/go/v4/types"
 )
 
 // OperationPayload represents a message produced to the operations.runner.v1 Kafka topic.

@@ -1,8 +1,8 @@
 package entities
 
 import (
-	"github.com/goldenm-software/layrz-sdk/go/v4/enums"
-	"github.com/goldenm-software/layrz-sdk/go/v4/types"
+	"github.com/layrz-software/layrz-sdk/go/v4/enums"
+	"github.com/layrz-software/layrz-sdk/go/v4/types"
 )
 
 // AtsOperationMovement represents a movement within an ATS operation's history.

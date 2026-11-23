@@ -1,5 +1,24 @@
 # Changelog
 
+## 4.32.1
+
+The GitHub organization moved from `goldenm-software` to `layrz-software`. Previous tags declare the old Go module path, so this release republishes every package under the new one.
+
+### Python
+
+* Repository, changelog and README links point to `github.com/layrz-software/layrz-sdk`.
+* Dependencies upgraded to the latest compatible versions (`uv lock --upgrade`).
+
+### Dart
+
+* Homepage, repository and README links point to `github.com/layrz-software/layrz-sdk`.
+* Dependencies upgraded to the latest compatible versions (`flutter pub upgrade`); no constraint changes.
+
+### Go
+
+* **BREAKING**: the module path moved to `github.com/layrz-software/layrz-sdk/go/v4`. Consumers must update their `go.mod` and every import from `github.com/goldenm-software/layrz-sdk/go/v4/...` to `github.com/layrz-software/layrz-sdk/go/v4/...`.
+* Dependencies checked and tidied; `github.com/google/uuid` is already at the latest version.
+
 ## 4.32.0
 
 ### Python
